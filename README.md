@@ -1,4 +1,4 @@
-# nginx-image-conf
+# nginx-conf
 
 reference
 
